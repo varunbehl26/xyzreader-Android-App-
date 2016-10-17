@@ -1,6 +1,6 @@
 # xyzreader-Android-App-
 This is the XYZ Reader(P5) project under Udacity Android Nanodegree Program
-https://cloud.githubusercontent.com/assets/4996494/19227072/2a6b3186-8ed2-11e6-801d-96792e616963.png
+![ScreenShot](https://cloud.githubusercontent.com/assets/4996494/19227072/2a6b3186-8ed2-11e6-801d-96792e616963.png)
 
 Rubric
 Required Behavior
